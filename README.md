@@ -65,13 +65,17 @@ Figma
 
 ## OUTPUT:
 
-![alt text](image-3.png)
+![image-1](https://github.com/user-attachments/assets/d28e3a30-3271-4f05-be58-a9734ebc4e90)
 
-![alt text](image-2.png)
 
-![alt text](image-1.png)
+![image-2](https://github.com/user-attachments/assets/bbe993f9-5dde-4cbd-b3cd-dbfa984eb09f)
 
-![alt text](image.png)
+
+![image-3](https://github.com/user-attachments/assets/63c53ff5-e709-454c-abfb-915a87b9e07f)
+
+
+![image](https://github.com/user-attachments/assets/b8963b27-40a8-4725-8ae5-70d2f97a1d71)
+
 
 
 ## RESULT:
